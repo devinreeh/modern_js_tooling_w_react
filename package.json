@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "author": "Devin Reeh",
   "license": "ISC",
@@ -16,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/devinreeh/modern_js_tooling_w_react/issues"
   },
-  "homepage": "https://github.com/devinreeh/modern_js_tooling_w_react#readme"
+  "homepage": "https://github.com/devinreeh/modern_js_tooling_w_react#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
 }
