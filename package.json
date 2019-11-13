@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Devin Reeh",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devinreeh/modern_js_tooling_w_react.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/devinreeh/modern_js_tooling_w_react/issues"
+  },
+  "homepage": "https://github.com/devinreeh/modern_js_tooling_w_react#readme"
 }
